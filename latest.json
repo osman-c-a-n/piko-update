@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "installer_url": "",
-  "sha256": ""
+  "installer_url": "https://github.com/osman-c-a-n/piko-update/releases/download/v1.0.0/PikoSetup_1.0.0.exe",
+  "sha256": "d0ff928fdb817fd1f72684fe28f782396bd542dd5d49970158f49218a822e846"
 }
